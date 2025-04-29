@@ -1,0 +1,201 @@
+LeadID,FirstName,LastName,Email,Company,LeadSource,CreatedDate,Status
+f842ff8a-592c-42f7-ace6-0192c240c81c,Alyssa,Robinson,debbierodriguez@example.com,"Mason, Banks and Martin",Event,2025-04-06,Unqualified
+15531385-494a-499a-964b-aef012677330,Samantha,Hughes,hbrooks@example.org,Robinson-Yoder,Web,2025-02-17,Unqualified
+19ef0395-c2ef-4971-bfa9-c06ec34a77bb,Elizabeth,Wood,xmercer@example.org,Carroll Ltd,Event,2025-03-23,Open
+8467c959-22c0-4b0c-9374-56f07f3c5365,Jennifer,Leach,christopher20@example.com,Williams-Perez,Event,2025-04-09,Qualified
+c1dd78d2-14ff-4f65-b8de-3425cd128cd7,Zachary,Ferguson,gilmorekimberly@example.com,Pacheco-Alvarez,Event,2025-02-06,Open
+84d55db9-05e5-4ed3-b6eb-1c5bc472d2a3,Robert,Barton,nelsonjoseph@example.net,"Ali, Ward and Ramirez",Referral,2025-03-09,Open
+ce3d52c9-4fe8-4372-9dc4-7348efd2d8fa,Karen,Berry,katrina66@example.com,Barnett-Burton,Cold Call,2025-03-17,Unqualified
+df29798d-d710-4fcd-98b7-a478670cdfdf,Joshua,Byrd,andrew51@example.net,Terry-Riddle,Cold Call,2025-04-11,Open
+5b54929f-1b1b-4021-aa2c-7aa3285444b6,Timothy,Perry,christopherriddle@example.org,Cohen Group,Web,2025-04-22,Contacted
+2ab803d0-a7f5-4637-82d0-d5046144e81b,Anna,Clay,robert44@example.com,"Anderson, Ford and Martin",Referral,2025-03-09,Qualified
+5661a371-f34a-4e4b-8ed1-e55ce77d61c2,Richard,Mann,dmedina@example.com,Knox Inc,Cold Call,2025-02-09,Open
+e11374ff-c4e8-46db-897f-02df85c64b64,Shirley,Wong,howardshane@example.net,"Harris, Goodman and Rocha",Referral,2025-02-11,Open
+ddce3282-40ae-4189-97c7-eade516590cb,Alejandra,Turner,carlglass@example.net,Leon-Coffey,Event,2025-04-24,Contacted
+87112b32-2813-445c-bb3d-437b94c2b0b7,James,Mcdonald,cynthia58@example.net,Perkins-Stokes,Cold Call,2025-02-28,Contacted
+50506e95-8cfb-4b49-a53b-6aae12c3e647,Nathan,Lee,nathan07@example.org,"Walter, Neal and Gonzalez",Referral,2025-03-14,Contacted
+3baf2d9c-1293-4ffc-a9de-99adc19055e7,Alexis,Smith,lorettaellison@example.net,King Ltd,Cold Call,2025-04-14,Contacted
+233f17f9-c592-40ba-a43e-1d7bae0f6769,Debra,Benson,julianterry@example.net,"Wells, Duncan and Alexander",Web,2025-02-14,Unqualified
+cc31d146-d96c-41be-a68f-c9e42dee3f8c,Jonathan,Russell,annakennedy@example.com,Mills and Sons,Web,2025-03-28,Open
+669ea703-00af-43ba-8ec2-0fcbdd79fd16,Tracy,Sherman,ryan91@example.org,Daniels-Dean,Referral,2025-03-04,Unqualified
+66b2a24d-8c28-4360-92cd-098726f6fa1c,Keith,Alvarado,bfranklin@example.com,Cabrera Inc,Cold Call,2025-02-22,Unqualified
+f0a2c774-bbb6-4cf5-b8ab-7778c4811768,Angela,Castro,rhill@example.org,"Graves, Moore and Stokes",Web,2025-03-02,Contacted
+5bc168cf-3130-4ff9-a7c3-85a5f2f1c71c,William,Marshall,nicholas02@example.com,"Bowers, Ramos and King",Referral,2025-04-19,Unqualified
+70545545-25de-498d-b796-ef6eb4ebec32,James,Suarez,annjohnson@example.org,Mills-Figueroa,Event,2025-04-16,Unqualified
+a8cdc351-a9c7-4cf9-a382-c85bda73307b,Daniel,Anderson,garciakimberly@example.org,Gregory-Smith,Event,2025-02-20,Unqualified
+5d663a7e-8b52-4203-99cc-fae8c2859c23,Melissa,Baker,ksnow@example.org,Woods PLC,Referral,2025-04-20,Qualified
+c89d8973-da94-4f83-ae52-b1cb5af04385,Colleen,Rodriguez,blankenshipnicholas@example.org,Butler-Mcintosh,Cold Call,2025-04-07,Unqualified
+bee88cc1-a398-4b82-a6dd-3dc5f83f0050,Rachel,Shaw,wsmith@example.org,"Petty, Gould and Elliott",Referral,2025-02-02,Contacted
+37d211dd-96b6-417d-b6de-8e1ffab3d156,Megan,Zamora,johnathanstout@example.net,Joseph and Sons,Web,2025-04-25,Unqualified
+d61c9801-e550-4946-8dfd-d25916b4b97d,Gwendolyn,Parker,katrinaalvarez@example.net,"Hunt, Morrow and Johnson",Web,2025-02-05,Contacted
+b0631660-02da-40cb-b2ce-2ba70127b525,Joshua,James,sergiohamilton@example.org,Hall LLC,Cold Call,2025-02-05,Unqualified
+82b5c0ed-9594-4666-8322-9c145d1e9832,Christopher,Clark,schwartzdrew@example.com,Kelly-Tucker,Web,2025-04-21,Unqualified
+29839570-eb0a-4ffb-a5b2-c209e1bb6c61,Kevin,Ortiz,colonjames@example.org,Young Group,Referral,2025-03-13,Open
+495e0972-b2b7-46b8-804e-6552ebe397a4,Michael,Schultz,gonzalezcarl@example.com,"Hughes, Smith and Brooks",Web,2025-04-08,Contacted
+87b508e7-4f60-4a2f-8b64-a9acc2ebdfbe,Monica,Williams,castanedakerri@example.com,Williams-Zavala,Cold Call,2025-01-30,Qualified
+ab679c3d-f4ad-4173-b7da-f3270a67d18e,Bryan,Anderson,xrivera@example.org,Pitts Inc,Referral,2025-02-27,Contacted
+55ade3ff-513a-408c-8bfa-02924e68eb70,Nicole,Smith,maria47@example.org,Mcclain LLC,Event,2025-02-13,Open
+bab12c63-2900-40d1-aedc-1cf87ff2b110,Joseph,Mcpherson,wilsonrobert@example.com,Murphy-Lewis,Event,2025-03-15,Open
+147d4fe1-c2bd-45c1-bcc7-33c81e722631,Lucas,Glenn,ogonzalez@example.net,"Cook, Vargas and Kennedy",Referral,2025-04-03,Open
+b5c7d82d-9c5c-4413-ba4d-c6287c2818aa,Elizabeth,King,billjackson@example.com,"Flores, Fisher and Woods",Web,2025-02-12,Unqualified
+8b4ab9fc-0fb7-4264-afe2-8e9da059541c,Joseph,Fuller,hmckinney@example.com,Osborne-Drake,Cold Call,2025-03-27,Contacted
+9c4a7fa9-679c-4481-b89b-79200f2152f7,William,Sullivan,whitney54@example.com,Clayton Inc,Referral,2025-03-21,Qualified
+562ff400-6d10-4c98-8290-5d5901722fc5,David,Fischer,reyespamela@example.com,"Schmidt, Harris and Wilson",Cold Call,2025-02-14,Unqualified
+e540da60-143b-4993-a95a-5b64e9dfe7da,Amy,Peterson,curtis40@example.org,Knight-Kemp,Event,2025-04-03,Open
+33ca63c4-3c2b-4159-a6d1-2189b025ed45,Aaron,Davis,james60@example.net,Chaney-Brown,Cold Call,2025-04-15,Qualified
+8a3e84bc-7d8f-4fd4-be87-9df820015deb,Daniel,Wilson,hensonstephanie@example.org,Peterson PLC,Referral,2025-02-08,Unqualified
+9ee31243-114e-4daa-8074-332b978305ba,Nathaniel,Price,jacksonwilliam@example.net,"White, Simpson and Robbins",Web,2025-04-22,Unqualified
+e89c1007-e324-46b9-bddd-8b07b2a4db10,Eric,Allen,gmiranda@example.net,Bennett-Sims,Event,2025-04-05,Open
+a5df4ad5-87c7-4a0d-9b55-880a955265a4,Shawn,Dyer,millersusan@example.org,Berry and Sons,Referral,2025-02-26,Unqualified
+6ad30770-1ec9-4e1d-9e0d-0bde7cf90a90,Rebecca,Parks,fsosa@example.net,"Snyder, Murphy and Gomez",Web,2025-03-27,Qualified
+cd654ff6-9c28-4627-ab62-69f4327e026f,Javier,Duncan,brian09@example.net,Alexander and Sons,Cold Call,2025-02-09,Contacted
+1b0e4526-5093-4578-9ad0-ab6b71bbb5fe,Edward,Davis,mgarcia@example.net,Blair PLC,Referral,2025-03-15,Qualified
+a2a1194b-f340-4087-8769-b32d5746ae59,Michelle,Rivas,george07@example.net,Morse-Thomas,Referral,2025-03-14,Unqualified
+3e30db6d-0d4f-40eb-a5c1-055f03669ce0,Brandon,Brown,victoria43@example.com,Franklin-Lucas,Event,2025-03-20,Open
+f73f4587-01b7-442b-abce-87e7d6d4068b,Christina,West,beth10@example.com,Lewis-Walls,Referral,2025-04-27,Unqualified
+0d7a9148-048e-430a-9510-8bab1ce6550a,Jesse,Rowe,pamelahall@example.com,"Bryant, Miller and Ellis",Event,2025-03-05,Contacted
+75165e19-84ed-4e21-b12a-ce363be83f5c,Stephanie,Gibson,natalie36@example.org,"Patterson, Martinez and Sherman",Referral,2025-03-08,Open
+6f04e727-7662-4f01-b8d4-3bb77a65c1cc,Sharon,Tran,pclark@example.com,Cole-Gonzalez,Cold Call,2025-04-26,Open
+f43503b9-90bf-49f7-8582-a5447f06fdc9,Michael,Shannon,ronald24@example.com,"Mcdonald, Rose and Rodriguez",Web,2025-03-06,Contacted
+8ac188d9-497a-4024-a461-83cb60344a2e,Keith,Pierce,sherrydavis@example.com,"Parker, Foster and Mann",Cold Call,2025-04-17,Contacted
+825745a2-5bf2-44d8-a1d9-53670abe104d,Jacob,Goodwin,robin33@example.com,"Mills, French and Thompson",Cold Call,2025-02-01,Qualified
+680fd32c-6847-49b6-9a75-4cdc5a234584,Courtney,Simpson,starktimothy@example.com,Pierce LLC,Web,2025-03-07,Unqualified
+c1d9be53-e313-408e-a8a6-bad85a07f282,Allison,Johnson,anthonygordon@example.org,Byrd-Dougherty,Event,2025-03-16,Open
+d4e95aa1-8df0-444a-a37a-94f5fef24d03,Steven,Cain,fharvey@example.org,Lawrence-Vargas,Referral,2025-04-27,Contacted
+befaeecf-e34e-49e6-9de1-351e2b2deadc,Jacob,White,bentleydillon@example.com,Ibarra Inc,Web,2025-02-27,Open
+b3d75a4f-e289-4de2-9320-d2cfc121ff99,Kenneth,Guzman,kellymiller@example.net,Conner-Anderson,Web,2025-04-04,Open
+4d9c8809-4979-497f-b475-372bbe5d618d,Joshua,Aguilar,martin75@example.com,"Bartlett, Rangel and Cooper",Web,2025-02-15,Open
+b8dc99a2-3b2f-407f-96ec-c757e4aa40a3,Oscar,Davidson,tyler60@example.net,Thomas and Sons,Referral,2025-03-14,Qualified
+4c96e42a-7601-4cda-831f-a41e6b6acbc5,Joseph,Williams,steven76@example.com,Wilkinson PLC,Event,2025-02-18,Unqualified
+ccb8c216-41ec-47cb-a266-c3134ed6dbae,Robert,Morgan,washingtonjasmine@example.net,"Flores, Holder and Hopkins",Cold Call,2025-02-06,Open
+9210dd21-3d80-444c-bea2-61a57ea372a9,Juan,Carter,priscillaponce@example.com,Hicks LLC,Web,2025-02-06,Open
+d0934e54-d5fa-4d11-9899-bf94f4113790,Priscilla,Flores,sandra00@example.com,Brown-Cordova,Cold Call,2025-03-31,Qualified
+f9bd3307-01e7-4531-b332-ee292a7b440d,Glenn,Anthony,mackenziewalker@example.com,Leonard-Hines,Cold Call,2025-02-03,Open
+aabcf4d2-3f55-415e-8c5a-abf26b384f7a,John,Martinez,diazanita@example.org,Schwartz PLC,Referral,2025-04-14,Open
+19283653-ee5b-480f-a541-eaf182c42420,Brian,West,qwashington@example.net,"Atkins, Curtis and Fisher",Event,2025-03-26,Qualified
+ff3bfb84-b508-4844-99c9-9528e0f091ae,Rachel,Kidd,jennifersmith@example.org,Hall PLC,Event,2025-02-04,Open
+a7d3fb14-5a43-4346-b6ef-36992861450d,Bryan,Campbell,olsonjoseph@example.com,Petersen-Mitchell,Event,2025-02-01,Open
+1c802e75-bea8-4043-bef4-11dcd9a4cdec,Joanna,Shaw,troyfrederick@example.org,Nguyen Ltd,Referral,2025-04-14,Contacted
+3ae3049a-b44a-4908-9666-92a5e2100d60,Thomas,Lang,tsalinas@example.com,Smith-Wiggins,Web,2025-03-29,Contacted
+a3151058-28dc-4751-8289-5a6e766d04c1,Paul,Robinson,kellerjonathan@example.org,Larsen-Bishop,Web,2025-04-04,Open
+db4ad48c-ff53-41a4-a1e9-63fddb686da5,Deborah,Miller,privera@example.com,Vang-Moore,Event,2025-04-05,Contacted
+586105ec-4179-4da2-9a02-8a11773f65fe,Brianna,Cox,andrewhayes@example.com,"Murphy, Newton and Brewer",Event,2025-02-05,Unqualified
+cc58d387-6f0b-423c-88dc-dafa33d18410,Jason,Jackson,sdixon@example.com,Wilson Inc,Event,2025-03-21,Qualified
+ce7a8620-d38c-4857-b612-4ef33ee96af9,Scott,Holland,hturner@example.com,"Torres, Hale and Torres",Cold Call,2025-02-02,Qualified
+dcd14845-f1ba-4a02-a5c1-933eddabe237,Brandon,Walker,davieslaurie@example.org,"Phelps, Levine and Navarro",Event,2025-04-20,Qualified
+79c588b7-ba2d-4c67-9509-81d3a617b747,Scott,Jones,schroederryan@example.com,Harris-Johnson,Referral,2025-03-05,Unqualified
+85d98fcb-9736-4373-8b47-c4f6d894a465,Richard,Thomas,joshua99@example.org,Henry Inc,Cold Call,2025-03-14,Unqualified
+7e31abd4-bdd0-431a-8d3f-e6cb9003c30b,Tasha,Collins,cohenmark@example.net,"Nelson, Rodriguez and Doyle",Referral,2025-03-20,Unqualified
+23cb49c8-834b-4edd-b93d-19f3b8a282db,Joan,Dennis,hsingleton@example.net,"Avery, Floyd and Franco",Referral,2025-04-04,Unqualified
+c27c719f-497d-4dc8-b69b-1ef05493fe88,Caitlyn,Shields,patricia02@example.net,Williams-Alvarez,Web,2025-01-30,Qualified
+c5db9401-8e77-4b6d-9c4b-85a1c85d42cc,Lauren,Barnes,jilliancunningham@example.org,Lewis Inc,Web,2025-02-02,Open
+546fd33c-55d0-4729-96b3-a156434826e8,Brian,Romero,qromero@example.com,"Dominguez, Thomas and Smith",Event,2025-04-04,Qualified
+0fc99082-f27b-4d6b-9c6a-116dc770e705,Kevin,Mccarty,jonathanchapman@example.com,"Martin, Martinez and Kelly",Referral,2025-04-27,Open
+ed71a775-d493-4227-8d62-6e05cfb38343,Megan,Hernandez,georgesantiago@example.com,Clark-Baker,Cold Call,2025-02-02,Contacted
+211c69af-8482-4a3d-a718-7e7f55a3932e,Alison,Hill,pagerebecca@example.com,"Sloan, Velazquez and Nguyen",Event,2025-04-06,Qualified
+19688e61-9cab-4eff-821e-42a7809b8f64,Darrell,Yang,murrayshannon@example.net,"Ellis, Tucker and Hays",Cold Call,2025-03-27,Qualified
+3c6df146-69cf-4747-9363-ff1c346dff3d,Kenneth,Jennings,christopherreyes@example.org,Gordon Ltd,Web,2025-03-09,Contacted
+4139bbc6-2df5-4301-9b7c-3c46d203cd69,Deborah,Garcia,rmills@example.com,Vargas and Sons,Web,2025-02-16,Unqualified
+04480a07-7fb3-4a54-9316-e6fbc9beb081,Robert,Brandt,leebarbara@example.net,Lewis-Meyers,Referral,2025-04-07,Unqualified
+7e47568c-4e08-4b25-932f-ac20dc9e97b4,Jonathan,Jackson,moneill@example.org,Burke-Scott,Web,2025-04-24,Qualified
+4e1da42a-a2c2-4a7a-8db4-3a4260cdc6c0,Tracy,Parker,wadeangela@example.org,"Gonzales, Smith and Johnson",Referral,2025-03-18,Qualified
+2aadfe7b-c54a-43b4-955d-f7a2a8e673f7,Damon,Torres,charles54@example.org,Cole-Hickman,Referral,2025-02-01,Contacted
+1f0673bd-fba0-48c9-9856-89c2b888bd04,Adam,Spencer,morgan85@example.org,"Mcbride, Brown and Stuart",Event,2025-03-14,Unqualified
+d31b52af-8b68-4594-8e10-af00d88cddd6,Nicole,Joseph,ujohnson@example.net,"Jackson, Pierce and Simmons",Cold Call,2025-04-05,Qualified
+08e28108-660e-478d-baa9-224d90500cf9,Casey,Noble,flynnvickie@example.org,"Guerrero, Ferguson and Romero",Referral,2025-04-04,Contacted
+df4e79ce-f57d-4eaa-8487-61e3ff63d2c1,Elizabeth,Burns,tiffany30@example.org,"Hernandez, Gonzales and Vincent",Event,2025-04-03,Unqualified
+139ff042-b16f-4609-bb7a-5b4a92479891,John,Becker,jennifer98@example.net,Gregory-Roy,Referral,2025-03-30,Qualified
+d39821b2-95c3-4cce-a8a2-098e10e4c18c,Michael,Koch,mooredanielle@example.com,King-Reynolds,Web,2025-02-18,Qualified
+4ccf0e67-c9c3-4256-a60f-dbe8bcd4ae83,Thomas,Hutchinson,lewiscynthia@example.com,Elliott-Colon,Web,2025-04-28,Contacted
+59707768-c4fa-4921-b6be-0da23c4fd7f0,Deanna,Cole,charles77@example.org,"Butler, Jacobson and Massey",Web,2025-03-08,Qualified
+71fae2c7-d017-4b8b-9133-d093a910cdf6,Hailey,Chen,matthew48@example.org,"Peterson, Yang and Taylor",Referral,2025-03-20,Qualified
+b4d5f7ca-137d-4b79-ad60-613e3f9d143c,Teresa,Martin,joseph28@example.net,Harrell Inc,Web,2025-02-25,Qualified
+cb87664b-d4a9-4a12-af50-def3fe547e7a,Shari,Griffin,eric99@example.com,Pace-Ortega,Web,2025-03-28,Unqualified
+82b71430-3890-4e5b-81bd-3c132dec647e,Matthew,Wilkins,bgray@example.net,Martinez LLC,Referral,2025-02-06,Open
+601cb22f-9332-4c22-a26d-203062ab2675,Denise,Nguyen,ifoley@example.com,Smith-Williams,Web,2025-02-16,Unqualified
+7c0eea41-e7fd-4437-b649-c7a5f1bbaf54,David,Castillo,lkennedy@example.net,"Newman, Stewart and Randolph",Event,2025-04-14,Qualified
+aaa82219-a302-467f-ab2e-5ba7ed8e333a,Sierra,Ayala,fmarks@example.com,Wright Group,Referral,2025-04-19,Qualified
+2ae2dcf8-4e46-4e91-9071-a7ebe2b10764,Robert,Alvarado,charles37@example.com,Andrews Ltd,Referral,2025-02-15,Unqualified
+e548cbbf-1b92-44db-a1cc-f810f8572fc6,Rita,Wright,meghan70@example.org,Scott Inc,Web,2025-03-30,Open
+f3246928-9ced-411c-ad1e-ba5e78c3d519,Angela,Bender,jonathanlewis@example.net,Decker-White,Web,2025-04-06,Open
+e62d224b-e62f-4120-bd10-70cda61bfd13,Katelyn,Kim,frank15@example.org,Hayes Inc,Cold Call,2025-02-20,Qualified
+9fb0881a-6cb3-4b6b-b2ce-cfe15be9ab0a,James,Bailey,singhsteven@example.org,"Li, Calderon and Cooper",Cold Call,2025-04-22,Open
+8edbf6f4-ec59-4b20-bfed-f52bbe3f298a,Joseph,Mcbride,zwoods@example.com,"Todd, Hall and Shannon",Cold Call,2025-04-16,Open
+6a7ab45a-0837-4296-9aea-eecc775bcba9,Cassandra,Cervantes,taylor32@example.com,"Coffey, Dennis and Garcia",Event,2025-03-18,Qualified
+781884d9-9e49-4855-b399-1a51db244179,Linda,Bennett,lhahn@example.org,Murray Group,Event,2025-03-18,Open
+b7b04591-d1e7-43c2-a395-8b27b9310924,Michael,Wilson,shirley78@example.net,Shannon-Chang,Event,2025-04-26,Contacted
+fef508f0-5a91-4e0a-8145-9daa04f6dfaa,Andrew,Henderson,idoyle@example.net,Wright-Silva,Cold Call,2025-03-30,Contacted
+b71fb654-01e2-469d-96ba-937ce8263792,Leah,Butler,osmith@example.org,Wood-Bates,Cold Call,2025-02-26,Unqualified
+4e48fc4c-29ec-424f-9092-b4dc4eecc690,Erik,Anthony,rking@example.net,"Kirby, Stephens and Melendez",Event,2025-04-20,Open
+fe411c6b-889d-4bc8-8b36-de6d852ac522,Jesse,Ellison,dale24@example.com,"Barnett, Myers and Decker",Web,2025-04-02,Contacted
+04820683-b884-45a2-999a-18584e5ff160,Travis,Simpson,lyonssamuel@example.org,"Allison, Moody and Moss",Web,2025-04-16,Qualified
+8b04e856-2c3f-4852-ae88-daa01518f4a4,Amanda,Payne,heatherfitzgerald@example.com,Case PLC,Referral,2025-03-11,Unqualified
+8d6b052c-07a5-4e93-a461-0a66a25572fa,Justin,Carlson,crystal98@example.org,Brown and Sons,Event,2025-04-04,Unqualified
+560a52ea-5c39-4be7-a772-ab6083a9b36e,Christopher,Aguilar,connorwilliams@example.com,Fuentes and Sons,Web,2025-03-22,Contacted
+38a91dc1-7959-4fb2-826d-ecfc23041917,Tammy,Morris,nwhite@example.com,"Russo, Mcgee and Dixon",Web,2025-04-23,Unqualified
+bd4858c9-0f2f-4952-84b6-104ab4326082,Kimberly,Camacho,heidiprice@example.org,Tate Group,Cold Call,2025-03-04,Unqualified
+4a007942-fd54-485a-b758-02bbdf90c3b4,Andrea,Ryan,ellisthomas@example.com,Camacho PLC,Referral,2025-03-14,Contacted
+7623ecc7-f5e6-420f-90f1-d7a94dfc7281,Reginald,Cook,diazmatthew@example.org,"Nixon, Brown and Cross",Event,2025-04-26,Open
+0e1e56b4-d8b8-4606-a4da-eb676636828f,Jason,Jennings,bakerkelly@example.com,Cohen LLC,Cold Call,2025-03-30,Contacted
+fb766bbf-f20e-43d3-a759-5d71a2936a54,Ashley,Jones,cware@example.com,Aguilar-Miller,Referral,2025-04-23,Qualified
+ba7e6e48-845c-4ba8-b037-8809d743e579,Michael,Lowe,shannongriffin@example.com,"Vazquez, Cole and Burgess",Web,2025-03-22,Unqualified
+5980bad2-a114-49d0-a7cb-26e5ff0e813f,Meghan,Brown,ycabrera@example.net,Hill PLC,Cold Call,2025-02-18,Unqualified
+58e7dd97-f0f5-49b1-a98b-d27f4e9d5edc,Bryan,Martinez,steven24@example.org,"Valencia, Roberts and Mercado",Web,2025-02-15,Contacted
+070820a9-4b8f-41dc-979e-d30412578622,Haley,Hughes,timothybaker@example.org,"Valenzuela, Banks and Moore",Cold Call,2025-04-08,Contacted
+b4087bc3-43a8-4095-89b9-2671feec35bd,Tiffany,Craig,krystalodom@example.net,Hubbard PLC,Referral,2025-03-05,Unqualified
+00146dce-662e-40a8-b513-5c73da838273,David,Burke,garciaashley@example.org,Peters and Sons,Referral,2025-02-21,Qualified
+82a522ff-8aab-417a-a1af-d63384ac723c,Scott,Wright,robertwilson@example.org,"Cisneros, Wiley and Bautista",Event,2025-03-25,Open
+19091b9d-5f59-4742-a44b-191f6fb338ad,Courtney,Tanner,jennifer68@example.com,Morales and Sons,Web,2025-03-30,Unqualified
+70aed12a-60a3-4ebf-94dd-6eff3cb9ab16,Cindy,Lewis,ndouglas@example.org,Williams-Gomez,Referral,2025-04-26,Unqualified
+4388e871-aa48-46eb-96d5-7cfcd543fd28,Jose,Smith,leslie59@example.org,"Petersen, Lynch and Moore",Web,2025-03-01,Unqualified
+0371f51b-f5ea-424d-8581-2f4149adcabd,Kimberly,Taylor,miranda76@example.com,Scott-Hunter,Event,2025-04-01,Open
+859557df-a806-4dd5-9f56-1edf384793d1,Kenneth,Clarke,edwarddennis@example.org,"White, Owens and Gibbs",Referral,2025-03-18,Open
+52af95dd-2b68-4b45-9bbe-c990d0a1d183,Brandon,Mitchell,johnsonpatrick@example.net,Frazier LLC,Cold Call,2025-02-23,Unqualified
+1a6f5ec4-ca23-47f5-9d12-1b413f2643c5,Leslie,Sandoval,briana47@example.org,Sellers and Sons,Referral,2025-02-13,Open
+0fd24df1-2fda-43db-b3c9-39144673cb46,Sharon,Anderson,zavalacody@example.org,"Gibson, Franklin and Carter",Event,2025-03-24,Contacted
+34099747-84e2-4693-9b78-6ff6507770ff,Samantha,Hill,scott70@example.org,Mcintyre Group,Event,2025-04-07,Contacted
+e30cbe54-ab73-48f7-b0b3-7b052d552650,Justin,Rasmussen,heather06@example.net,Atkins Inc,Cold Call,2025-02-01,Contacted
+87c43c88-ef95-4510-933a-a8f18955c6c1,Lisa,Johnston,alexandercantu@example.org,Fuentes-Ponce,Referral,2025-03-25,Unqualified
+fc91ac59-d26a-4803-b951-a1078b053b22,Jessica,Nolan,christinegould@example.com,Anderson-Bartlett,Referral,2025-02-28,Contacted
+f39ca621-6c72-44c0-981e-aad564f557cb,Michael,Ayers,uvasquez@example.org,Molina LLC,Event,2025-04-14,Unqualified
+30233504-6d87-4c26-9df1-6f97f00d2d51,Jonathon,Chen,brittanypeck@example.com,"Olson, Vaughn and Rodriguez",Web,2025-02-01,Open
+11fb5997-4ff8-44d9-8daa-a96f9b2baa48,Thomas,Carter,amy60@example.org,"Erickson, Harris and Bender",Referral,2025-04-06,Contacted
+088e88b5-78a9-4c33-b2ef-757fdc73e563,Heather,Woodard,jimmylee@example.net,"Graham, Khan and Fletcher",Cold Call,2025-04-12,Unqualified
+83b85767-3c8b-4466-962d-954c23058c19,Megan,Bernard,kurt99@example.org,Butler-Miller,Event,2025-03-10,Contacted
+f9d60c21-c534-4164-9df9-838af31e69f6,Jamie,Johns,wangbrittney@example.net,Mckinney-Walsh,Event,2025-02-21,Qualified
+e504158f-d378-460d-92ca-1c668696009e,Natasha,Lopez,fcobb@example.net,"Murray, Cole and May",Event,2025-02-06,Contacted
+a766fbf6-7cd9-4b3f-9847-71e2a9263a42,Jonathan,Martin,smccall@example.net,"Cordova, Shelton and Carey",Web,2025-01-30,Contacted
+c4a29733-5b14-4139-a07c-2072bb575ae4,Stephanie,Burton,poolechristopher@example.com,"Gould, Garcia and Johnson",Cold Call,2025-02-06,Contacted
+bc106a38-230e-455d-ad6d-0f2948a868ab,Jack,Carroll,aorozco@example.org,"Curtis, Salazar and Brown",Event,2025-02-24,Contacted
+fe3fb007-4253-404b-afe9-da6091d5dd6e,Lawrence,Taylor,bradyjustin@example.com,Terry Ltd,Event,2025-02-16,Contacted
+0ef9b916-993e-46a6-bed9-a0661e0e5a6f,George,Rodriguez,davischarlotte@example.org,Villanueva PLC,Web,2025-02-15,Open
+5024617e-ea71-4ddc-b2ea-8d8f125571ba,Melissa,Crawford,margaret62@example.net,Riley-Gallagher,Event,2025-04-16,Qualified
+f8715542-f855-4b6f-a84f-60d8db7e57be,Kevin,Brown,bryce55@example.org,"Adams, Lawson and Bishop",Event,2025-02-19,Contacted
+e4f832c3-1fa0-412e-b974-f90e6c936d06,Catherine,Wong,heatherjones@example.net,Escobar-Ayala,Cold Call,2025-03-09,Open
+2f4f0003-397d-4e9b-891f-475be31d9a89,David,Green,zmahoney@example.com,Brown-Harrington,Referral,2025-03-15,Contacted
+dd8139ba-86f0-4596-9f5c-cbb2c9f99742,John,Collier,campbelljorge@example.com,Harvey Inc,Web,2025-04-27,Contacted
+311d8d61-8846-4a57-b12f-2ec40cc486b1,Richard,Perez,raymondjenkins@example.com,"Cunningham, Miller and Gonzales",Event,2025-02-22,Qualified
+e2aa4f87-ad25-4d28-b7e2-b40169c9711a,Roger,Lee,bkim@example.net,"Jordan, Cruz and Thompson",Event,2025-02-23,Open
+d66a0be3-8408-4f8a-bb69-844c0f193e5e,Renee,Davis,david99@example.com,"Tucker, Bird and Schaefer",Referral,2025-02-11,Open
+4b36df44-9eae-4630-aa0e-b754cc4db499,Tracey,Hays,deborahgilmore@example.net,Griffin PLC,Referral,2025-04-27,Qualified
+887729ec-1c41-4a52-83f9-3d73a551651b,Paul,Ray,amberjohnson@example.net,Miles-Cummings,Web,2025-03-01,Qualified
+02252ba8-42c3-4329-9eee-22f66662d7ae,Rachel,Hill,mathewjones@example.com,Parks-Brown,Web,2025-02-20,Qualified
+60f1c866-d90f-438d-808a-fdaaa657a011,Stephen,Ramirez,marissasalazar@example.com,Glover-Jimenez,Cold Call,2025-03-17,Unqualified
+7ee8c766-5d16-47c1-93f9-55582cbc2859,Shannon,Gilbert,perrybarber@example.org,Russell Ltd,Referral,2025-03-10,Unqualified
+f9c4f236-01f8-4569-ad8b-c389eebfb5bc,Jessica,Boone,whitebrittany@example.com,Pollard-Sherman,Web,2025-03-23,Unqualified
+e2835004-2c0b-4a68-957f-8af7c54ad492,Amy,Caldwell,joshuaroberson@example.com,Arnold-Graves,Web,2025-02-26,Open
+4d150dca-121a-47c0-adf7-819b751159a5,Mitchell,Casey,hornbrett@example.org,Lewis PLC,Event,2025-02-21,Qualified
+296504cc-10b6-41a9-ae4a-db4fb4302877,David,Perkins,rpoole@example.org,Fleming-Woods,Web,2025-04-17,Contacted
+c09d7034-eaa4-4c11-9629-1ebe9bf0fea9,Susan,Martin,erin27@example.com,Sims-Knight,Referral,2025-04-02,Unqualified
+9bc70bcd-7c23-437c-8fe3-cbfd4aff8390,Denise,Cruz,wilsonmichael@example.org,"Clay, Meyer and White",Web,2025-02-12,Unqualified
+3046cccd-0839-473a-8847-8441b08730fd,Mary,Smith,kstark@example.net,Phillips Inc,Web,2025-02-24,Contacted
+86a44d22-e625-4f3d-9f10-770c8d1f07bc,Roberta,Stephens,darrell05@example.com,Johnson-Torres,Event,2025-04-22,Contacted
+02472f4b-bbd6-434f-bbf8-a320cc68674d,Carol,Alvarado,browndonna@example.net,Brock-Wilson,Event,2025-03-03,Qualified
+3bfad582-be5f-4613-a03b-fef540a9b02b,Rose,Walker,johnny00@example.net,Huerta-Jackson,Cold Call,2025-03-19,Qualified
+ebe2cf4c-2fa2-476b-866e-8da487fe6f98,Benjamin,Thomas,nicholassantos@example.net,Smith-Garcia,Cold Call,2025-03-24,Unqualified
+e2f9a913-75d9-4212-a314-a43c779d2274,Denise,Hunt,dennisgail@example.net,Chapman Ltd,Web,2025-02-09,Contacted
+a5b3c679-5edf-4fc9-8d7d-f932afba6813,David,Hernandez,davidsonashley@example.net,Berry Inc,Referral,2025-02-14,Qualified
+1891dcfb-8c45-42f1-89dd-b5e6f0706aa8,Brian,Gomez,hcarroll@example.com,"Perez, Williams and Phillips",Referral,2025-01-30,Unqualified
+63289b09-dbf0-4343-9672-d94c24e834e8,Jacqueline,Montgomery,mjordan@example.net,Rhodes Inc,Event,2025-03-02,Unqualified
+9d6d9205-b7d1-4ae6-8d59-e1e7375a70f2,Peggy,Cox,rhayes@example.com,"Mcmahon, Johnson and Webb",Event,2025-03-08,Open
+a520cea0-f1a4-4254-aae5-afb65285daff,Brian,Perry,xwalter@example.com,Walker-Allen,Event,2025-04-11,Contacted

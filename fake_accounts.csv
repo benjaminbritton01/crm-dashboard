@@ -1,0 +1,101 @@
+AccountID,AccountName,Industry,AnnualRevenue,CreatedDate
+e0a9393c-cb7f-4744-9169-5deee33a734a,"Hale, Wright and Roberts",Tech,7388590,2025-02-28
+556a6e34-a17a-47bf-99e2-2a24d84a1cc6,Ford-Johnston,Tech,9525321,2025-02-18
+44f13958-26cf-46aa-906a-c6fc99efff7b,Hernandez-Martin,Tech,4190138,2024-11-22
+1ce9cc10-6224-4925-a006-0d060dc2551e,"Alexander, Smith and Gallagher",Tech,1100495,2024-11-25
+052cd14c-c354-49c6-8e7a-1c48ae423522,"Friedman, Tyler and Schaefer",Finance,2965610,2025-02-01
+7a922db4-a4db-4ff2-8fcd-25490c9c0dcd,Graham PLC,Retail,1143129,2024-11-05
+88562350-1a7f-4660-8630-11a714b6af18,"Krueger, Briggs and Barr",Healthcare,2318286,2025-01-10
+632d395c-be00-4ae2-bb71-7c7e4232a9ae,Mcfarland and Sons,Retail,6848002,2024-12-20
+64e28ffb-85c9-4d2f-8caa-092a11235b71,"Pitts, Turner and Rice",Retail,8880122,2025-03-01
+326ee77a-d535-4685-892e-3225292b7325,Owen-Ellis,Retail,1130439,2024-12-30
+dfbcf56e-36b0-4175-b2fc-13939d9eadb2,"Adams, Ochoa and Harrison",Finance,4778361,2025-02-19
+eb03080b-a735-442a-a9e4-b74edf52ccc8,Horne and Sons,Tech,3955986,2024-11-07
+e8041dcf-0e28-4a46-8cfb-39db4b96c689,Fisher LLC,Finance,5003500,2024-11-11
+cc2d18ba-a088-41ce-9893-0705738d656d,Farmer Inc,Healthcare,4894574,2024-12-29
+fd9a0fac-128a-402e-9525-0c003502fe7e,Huang-Rosales,Tech,7699311,2025-01-01
+1053364a-1f93-43e1-af2b-d34632abf298,"Gaines, Kelley and Salazar",Healthcare,9609261,2024-11-10
+7860f163-a3c4-4d39-b0a6-346c2292c286,"King, Church and Bailey",Retail,4782136,2025-02-04
+900e5fb1-03c3-4350-af60-d60b8b36acac,Ortiz Inc,Finance,4063286,2025-04-15
+3c77271a-6ae2-451e-a069-afef8f36740f,Gardner-Trujillo,Tech,9210990,2025-03-15
+412f0b26-e65d-49d8-b2e5-124039a670ef,Harris-White,Tech,6216470,2025-03-04
+ed80703d-0ef7-41b3-ae86-54682627cc5c,Rice Ltd,Healthcare,3258572,2025-03-16
+fd973329-3109-46a2-8878-9e6c8f3aa763,"Nelson, Smith and Wilson",Finance,7666830,2025-01-02
+84d092c3-a0f3-4d30-9249-d26414b9fd3d,Brown Inc,Retail,1434572,2024-11-24
+88fbc785-8c28-4109-a1bc-1d7ff7b93a20,"Foster, Williams and Perry",Tech,9301792,2025-03-09
+3bb22381-b795-4962-bbfa-088e62255ae8,Smith and Sons,Retail,2738124,2025-03-13
+43150348-f793-4d1b-8e19-2e3cdab99034,Bartlett and Sons,Retail,2808102,2025-01-22
+87fa5de1-3b8d-43d1-a1ce-c5974f948314,Cruz and Sons,Retail,5530474,2024-11-14
+0948868d-4f28-4d59-8a71-38a42049991e,"Gould, Chen and Ho",Retail,1481138,2025-01-22
+fe5f462e-cef1-46a1-9dbb-6a34df75a0ec,Grant-Good,Healthcare,1211083,2025-03-25
+6befed0b-d943-4b0c-adb4-9d641b222053,Mullins-Wallace,Healthcare,7372425,2025-04-05
+b6d40606-2c14-4092-83b2-ed43730a90fb,Rogers-Reeves,Healthcare,1220811,2024-12-15
+7bcd04e4-459e-4f19-a0d6-053cc1cc8f35,Butler Ltd,Tech,6502542,2025-03-08
+a91578db-a9d0-4d9e-aa2d-532754245a58,"Wilson, Morris and Kelly",Finance,7129741,2025-03-04
+eaf68ec2-188d-4182-a2e8-2d20ebdeee1d,George LLC,Healthcare,2894710,2025-04-25
+e943fb43-2ae5-4874-b15d-8781be59ad17,Smith LLC,Healthcare,9315161,2025-01-06
+2407981b-16ec-49ab-ae47-785afc918d30,Ramos-Edwards,Tech,9428213,2025-01-13
+45a439e6-fca7-40ce-bc29-ede1a508ece0,Barrett Group,Retail,3640756,2025-04-25
+7e00dbb3-c250-468a-adf2-30c987acbaa8,Klein LLC,Tech,8113476,2024-11-08
+72c69805-32eb-4f14-a2d4-e5e72c2a3c82,Evans-Miller,Tech,1692562,2025-03-21
+5de78bd8-5039-44c9-8269-da4eca6342d8,Kelly-Wallace,Retail,3993414,2024-12-26
+556d28e9-e756-4a1d-8629-a4f20161e2cf,"Douglas, Gonzales and Mendez",Retail,2673271,2025-04-26
+e2ecafcf-6449-48a8-9117-ed730bfe6c3a,"Miller, Nelson and Smith",Retail,5865874,2025-02-17
+0754b081-9ab6-4b97-ae82-7fdb51f92dcb,Evans Ltd,Retail,7618433,2025-02-27
+e3541650-94ac-44d2-83d6-0e467af33003,Wright and Sons,Healthcare,8642747,2024-12-31
+3300093a-e693-4699-848c-cd5cc4ffa23c,"Floyd, Sullivan and Carlson",Healthcare,9232884,2025-01-05
+fef5fa45-9524-47dd-9a07-0bedf54a2c8b,Kelley Group,Retail,5069204,2025-02-12
+1e3f20fd-ba58-4fad-a6e8-c2b1eef9c7da,Cox Inc,Retail,8231383,2024-12-28
+18b8111b-66fd-4eca-a944-f37ba534b078,"Martinez, Booker and Tucker",Healthcare,6422253,2024-12-16
+5ac4159c-2ac4-4ea8-8295-63a23abfb678,Fleming PLC,Tech,2813325,2025-03-07
+03a65075-002f-4579-9f0b-7c0d9ade923c,Frost LLC,Finance,8653553,2025-01-16
+4687b390-d205-4736-9704-b0f6dfed1eef,Beard Group,Finance,5091857,2025-03-02
+82b6630f-4848-4e94-b877-2c9a23a42a2e,Mcdonald-Brennan,Finance,4333976,2024-12-28
+7aea5389-470e-4708-b6e3-644c6b1537e7,Obrien-Walsh,Finance,4276013,2025-03-07
+6cbc23c0-037c-460f-9a2d-796ca85f0b79,"Richardson, Rollins and Rogers",Tech,8330209,2025-03-06
+2bf3f95c-b831-4ee9-ab94-5dd26c05d6a3,Sullivan Ltd,Finance,8650379,2025-04-03
+811a36ae-6cc9-4e3d-8a6e-e1f6ec4ff78b,"Perry, Woods and Pace",Healthcare,2190590,2025-01-12
+3e18285a-b442-4ea7-8b00-937905760c03,Whitney Inc,Retail,8862648,2025-03-29
+e0925e25-fbec-48bb-8278-f774b67b7fd1,Duran-Brown,Retail,4168772,2024-12-16
+827f7416-9a6a-41c8-8133-cbabaa812d61,Hunter-Hernandez,Finance,9985715,2024-11-08
+ee388293-f109-47bb-ba1b-6b62aabd8d32,"Wilson, Lucas and Allen",Finance,8633833,2025-03-22
+d8262245-6cfb-4e99-af53-cd3ade3e5b81,Hardin Group,Finance,7325534,2025-02-27
+f77dccc6-896d-4072-a00f-42fa7d790742,Jordan Ltd,Tech,5447607,2024-12-05
+4922f6fa-3546-4271-9f34-54aa11bcb0fb,"Schroeder, Dickson and Reynolds",Retail,3242075,2024-11-02
+99dfe9fd-6c01-48f5-b74f-23b96da03575,"Burns, Beck and Hicks",Retail,6670516,2025-03-08
+983f348d-f4e5-41ba-98e0-c4f0516fa4f6,Mercer Inc,Retail,3520408,2025-03-11
+4ae2a9a8-a38a-4872-a16d-0d07c45b07ac,Floyd Inc,Tech,2765873,2024-11-16
+ab9f28e0-28d6-4c71-a19f-7fb57a8d1702,Howard and Sons,Healthcare,8577963,2025-04-25
+07ad8920-52ef-4210-8fee-761c135c3929,Morales-Case,Healthcare,1165351,2024-11-16
+e9b4197b-5396-402f-a060-b47c63422f30,Carr Group,Retail,4117755,2024-12-09
+264e9d45-7139-45ab-af47-18f2166480d4,Wolfe-Bowman,Tech,7022881,2024-11-29
+6ed47633-deab-49a0-a89b-33dda8cf24bc,"Lawson, Rodgers and Pineda",Healthcare,5904014,2024-11-06
+1b3900c4-c083-46e1-a570-4c0a5ebcbd57,Lynch-Guerra,Healthcare,3577769,2025-01-14
+8b4e4898-6648-4f5c-a341-0c28ee61d04f,Brooks PLC,Tech,1637735,2024-10-31
+aa4080bb-f0fa-4c1c-bd55-86c3fa84188d,Nelson Inc,Healthcare,4879250,2024-11-03
+54c69b5f-905f-461f-971a-f55b6a61db6b,"Rodriguez, Lane and Simpson",Healthcare,6008715,2025-02-18
+b01e940b-0e11-49df-bc2b-e03494bcaeb7,"Fuller, Jones and Nelson",Retail,9229545,2025-02-19
+61f4495d-edfb-4f59-9d46-50836d577a46,Livingston-Newman,Finance,6326059,2024-11-26
+9f608b20-da3e-488b-a0d4-2177e7767cfd,Campbell Inc,Retail,9588699,2024-12-22
+78a64570-2e15-4bc6-9362-f1342578bc8c,Torres-Nguyen,Finance,1273005,2025-02-07
+f1542c92-2a15-4508-aa03-1493aff3667e,"Morris, Huff and Yang",Finance,4863009,2025-01-19
+61ecbba8-03e1-4544-80d7-3c65fcda8af7,"Powers, Lewis and Smith",Retail,7623874,2024-11-24
+78d69c2e-b929-4981-bba7-a667d6fd1ec9,"Deleon, Greene and Ortiz",Tech,6799185,2025-04-13
+bc2b9602-0332-40e3-bf36-8dde9d02b419,Holden-Rivera,Healthcare,7632210,2025-01-09
+794bf56e-1bc8-42dc-9698-b1185bf37080,Lopez and Sons,Finance,1714671,2025-01-27
+83fd0f3f-430b-4323-85e8-3893c7272c82,Mclaughlin-Ramos,Finance,8327566,2024-12-03
+c51d4393-3f1e-46bf-8808-87b33cc35109,Edwards and Sons,Finance,6125312,2025-01-04
+2eefcb5d-e0c9-4f20-a579-25515eb28e92,Lopez-Parsons,Retail,8003400,2024-12-04
+7bf9b9a1-ee42-4235-8806-c34700f92397,Crane-Baldwin,Finance,3255741,2025-03-21
+d4a92df1-2669-4277-b003-034fe0016147,Munoz-Higgins,Healthcare,4168754,2024-12-16
+9aac1283-9576-4ce6-b598-895596f8f4ac,"Patrick, Mcmillan and Dominguez",Healthcare,9178250,2025-02-08
+99a052bb-0257-47b9-a1dd-ef1b43dbe53a,"Rowe, Sandoval and Wilson",Healthcare,5369903,2025-03-06
+6421f3c7-cd68-4e13-9571-a53459b0e5a0,Thomas and Sons,Tech,4950651,2025-02-22
+dbf22ad5-a84f-41b8-b860-6fa73579ac82,Harmon Group,Healthcare,5801488,2025-03-21
+352447cc-ffcb-49b0-a336-a4c47449c57c,Warren-Russell,Healthcare,2340470,2024-11-30
+f6ad495a-94cb-407f-b5ad-b11f39fdfac1,Mooney PLC,Retail,1335365,2025-02-26
+a5f0381c-d221-4f22-aa7e-8d590d00956b,Turner-Jones,Finance,2858322,2025-01-11
+3e041cb2-9217-4269-80da-46949ebe94ef,"King, Tucker and Sparks",Retail,9346028,2025-02-15
+fa7d447f-dc95-46b8-8889-2cccb03bcc7b,Jones-Byrd,Healthcare,9386184,2025-01-26
+fef8c77a-1e2c-4659-89ea-ae1b4aa5c4a0,Carrillo-Gregory,Finance,5205916,2025-03-27
+edaf4eb9-7d1e-4a2f-8334-54c811524a70,"Hall, Trujillo and Walsh",Retail,3782510,2024-11-30
